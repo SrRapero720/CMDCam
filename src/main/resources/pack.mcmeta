@@ -1,6 +1,6 @@
 {
     "pack": {
-        "description": "cmdcam resources",
-        "pack_format": 8
+        "description": "CMDCam resources",
+        "pack_format": 9
     }
 }
